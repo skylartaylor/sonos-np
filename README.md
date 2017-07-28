@@ -7,7 +7,7 @@ Originally developed for use with [bitbar for macOS](https://github.com/matryer/
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+While intended to display now playing information with light controls, this script can be used strictly to control Sonos from the command line if you so wish.
 
 ### Prerequisites
 
