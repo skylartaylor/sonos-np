@@ -1,4 +1,5 @@
-#sonos-np
+sonos-np
+========
 
 Now Playing Script for Sonos Systems with options for control.
 
@@ -28,6 +29,7 @@ From the command line, sonos.py can be executed with a number of flags:
 | --set "Room Name" | Set Default Speaker to Named Speaker                                |
 | --list            | List Sonos Speakers (Excluding Surround and Stereo Paired Speakers) |
 | --force           | Forces Discovery of Sonos Network (useful when debugging)           |
+
 like so:
 ```
 ./sonos.py --set "Living Room"
